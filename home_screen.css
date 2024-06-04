@@ -1,0 +1,87 @@
+.home-screen .ladies-night-at-levels-sukhumvit-11-siam-2-nite-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/images/ladies_night_at_levels_sukhumvit_11_siam_2_nite_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 0px;
+  right: -85px;
+  width: 1541px;
+  height: 1024px;
+}
+.home-screen .welcome {
+  margin-bottom: 218px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.home-screen .let-sdance {
+  margin-bottom: 28px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.home-screen .sign-in {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 35.5px;
+  color: #FFFFFF;
+}
+.home-screen .container-2 {
+  border-radius: 30px;
+  border: 3px solid #000000;
+  background: #0046CF;
+  position: relative;
+  margin: 0 8.3px 14px 8.3px;
+  display: flex;
+  padding: 8px 11.2px 14px 0;
+  width: 192px;
+  box-sizing: border-box;
+}
+.home-screen .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 35.6px;
+  color: #FFFFFF;
+}
+.home-screen .container-1 {
+  border-radius: 30px;
+  border: 3px solid #000000;
+  background: #0046CF;
+  position: relative;
+  margin: 0 8.3px;
+  display: flex;
+  padding: 9px 1.8px 13px 0;
+  width: 192px;
+  box-sizing: border-box;
+}
+.home-screen .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.home-screen .late-night-lounge {
+  position: absolute;
+  top: 399px;
+  right: 185.1px;
+  overflow-wrap: break-word;
+  font-family: 'Qwitcher Grypen';
+  font-weight: 400;
+  font-size: 197.7px;
+  color: #FFFFFF;
+}
+.home-screen {
+  background: #FFFFFF;
+  display: flex;
+  padding: 358px 0 184px 31.3px;
+  width: 1440px;
+  box-sizing: border-box;
+}

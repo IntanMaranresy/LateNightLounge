@@ -1,0 +1,11 @@
+.desktop-15 .ladies-night-at-levels-sukhumvit-11-siam-2-nite-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/images/ladies_night_at_levels_sukhumvit_11_siam_2_nite_1.jpeg') 50% / cover no-repeat;
+  width: 1440px;
+  height: 1024px;
+}
+.desktop-15 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,169 @@
+.sign-in .ladies-night-at-levels-sukhumvit-11-siam-2-nite-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/images/ladies_night_at_levels_sukhumvit_11_siam_2_nite_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 0px;
+  right: -85px;
+  width: 1541px;
+  height: 1024px;
+}
+.sign-in .group {
+  position: relative;
+  width: 49px;
+  height: 38.5px;
+}
+.sign-in .group-2 {
+  width: 49px;
+  height: 38.5px;
+}
+.sign-in .pepicons-printarrow-left-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  width: 49px;
+  height: 38.5px;
+  box-sizing: border-box;
+}
+.sign-in .pepicons-printarrow-left {
+  position: relative;
+  margin: 2px 5.3px 0 0;
+  display: flex;
+  width: 49px;
+  height: 38.5px;
+  box-sizing: border-box;
+}
+.sign-in .back {
+  margin-bottom: 4.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 28.1px;
+  color: #FFFFFF;
+}
+.sign-in .container-1 {
+  position: relative;
+  margin-bottom: 226.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .rectangle-6 {
+  border-radius: 21.8px;
+  position: absolute;
+  left: 50%;
+  top: 349.5px;
+  translate: -50% 0;
+  width: 138px;
+  height: 39.2px;
+}
+.sign-in .sign-in-1 {
+  position: relative;
+  margin: 0 0 32.4px 8.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 42.2px;
+  color: #FFFFFF;
+}
+.sign-in .emailuser-name {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 30.1px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.sign-in .container-3 {
+  border-radius: 30px;
+  border: 3px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1px 26px 0;
+  display: flex;
+  padding: 14.5px 25.4px 17.5px 0;
+  width: 349px;
+  box-sizing: border-box;
+}
+.sign-in .password {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 30.1px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.sign-in .container-2 {
+  border-radius: 30px;
+  border: 3px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 7px 1px;
+  padding: 14.5px 34.7px 17.5px 34.7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .forgot-password {
+  position: relative;
+  margin: 0 0 50px 102px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 25px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.sign-in .enter {
+  position: relative;
+  margin-right: 2.8px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 28.1px;
+  color: #FFFFFF;
+}
+.sign-in .container {
+  border-radius: 50px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin: 0 0 7px 68.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.1px 0 33.5px 0;
+  width: 502.3px;
+  box-sizing: border-box;
+}
+.sign-in .dont-have-an-account-sign-up {
+  position: relative;
+  margin-left: 41.7px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 28.1px;
+  color: #FFFFFF;
+}
+.dont-have-an-account-sign-up-sub114 {
+  font-family: 'Eczar', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 1.333;
+}
+.dont-have-an-account-sign-up {
+  font-family: 'Fraunces', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 1.333;
+  color: #FFDD7B;
+}
+.sign-in {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 35.5px 15.8px 197.5px 15.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}

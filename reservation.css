@@ -1,0 +1,195 @@
+.reservation .ladies-night-at-levels-sukhumvit-11-siam-2-nite-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/images/ladies_night_at_levels_sukhumvit_11_siam_2_nite_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 0px;
+  right: -85px;
+  width: 1541px;
+  height: 1024px;
+}
+.reservation .group {
+  width: 49px;
+  height: 38.5px;
+}
+.reservation .pepicons-printarrow-left {
+  position: relative;
+  margin: 0 232.3px 785px 0;
+  display: flex;
+  width: 49px;
+  height: 38.5px;
+  box-sizing: border-box;
+}
+.reservation .rectangle-12 {
+  opacity: 0.75;
+  border-radius: 30px;
+  border: 3px solid #FFFFFF;
+  background: rgba(57, 1, 114, 0.4);
+  position: absolute;
+  left: 50%;
+  bottom: 135px;
+  translate: -50% 0;
+  width: 751px;
+  height: 147px;
+}
+.reservation .rectangle-10 {
+  opacity: 0.75;
+  border-radius: 30px;
+  border: 3px solid #FFFFFF;
+  background: rgba(57, 1, 114, 0.4);
+  position: absolute;
+  left: 47px;
+  bottom: 302px;
+  width: 356px;
+  height: 58px;
+}
+.reservation .rectangle-11 {
+  opacity: 0.75;
+  border-radius: 30px;
+  border: 3px solid #FFFFFF;
+  background: rgba(57, 1, 114, 0.4);
+  position: absolute;
+  right: 46px;
+  bottom: 302px;
+  width: 375px;
+  height: 58px;
+}
+.reservation .reservation-table {
+  margin: 0 40px 36px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Vast Shadow';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFDD7B;
+}
+.reservation .full-name {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.reservation .container-4 {
+  border-radius: 30px;
+  border: 3px solid #FFFFFF;
+  background: rgba(57, 1, 114, 0.2);
+  position: relative;
+  margin-bottom: 20px;
+  padding: 6px 33px 16px 33px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.reservation .email {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 31px;
+  color: #FFFFFF;
+}
+.reservation .container {
+  border-radius: 30px;
+  border: 3px solid #FFFFFF;
+  background: rgba(57, 1, 114, 0.2);
+  position: relative;
+  margin-bottom: 20px;
+  padding: 6px 33px 14px 33px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.reservation .mobile-number {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 31px;
+  color: #FFFFFF;
+}
+.reservation .container-3 {
+  border-radius: 30px;
+  border: 3px solid #FFFFFF;
+  background: rgba(57, 1, 114, 0.2);
+  position: relative;
+  margin-bottom: 29px;
+  padding: 6px 33px 14px 33px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.reservation .which-place {
+  position: relative;
+  margin: 0 18px 2px 0;
+  display: inline-block;
+  width: 439.3px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.reservation .date {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 31px;
+  color: #FFFFFF;
+}
+.reservation .container-6 {
+  margin: 0 71.1px 45px 71.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 526.5px;
+  box-sizing: border-box;
+}
+.reservation .special-request {
+  margin: 0 24px 124px 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 31px;
+  color: #FFFFFF;
+}
+.reservation .next {
+  overflow-wrap: break-word;
+  font-family: 'Anonymous Pro';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.reservation .container-5 {
+  border-radius: 30px;
+  border: 3px solid #FFFFFF;
+  background: rgba(80, 0, 22, 0.5);
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  align-self: center;
+  padding: 11px 0 15px 5.3px;
+  width: 192px;
+  box-sizing: border-box;
+}
+.reservation .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.reservation .container-2 {
+  border-radius: 64.6px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin-top: 124.5px;
+  display: flex;
+  padding: 19px 46px 40px 47px;
+  box-sizing: border-box;
+}
+.reservation {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 37.5px 0 0 15.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}

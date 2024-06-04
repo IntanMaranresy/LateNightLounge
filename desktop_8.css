@@ -1,0 +1,91 @@
+.desktop-8 .ladies-night-at-levels-sukhumvit-11-siam-2-nite-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/images/ladies_night_at_levels_sukhumvit_11_siam_2_nite_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 0px;
+  right: -85px;
+  width: 1541px;
+  height: 1024px;
+}
+.desktop-8 .rectangle-7 {
+  border-radius: 21.8px;
+  position: absolute;
+  left: 47px;
+  top: 927px;
+  width: 134px;
+  height: 38px;
+}
+.desktop-8 .rectangle-8 {
+  border-radius: 21.8px;
+  position: absolute;
+  top: 929px;
+  right: 52px;
+  width: 189px;
+  height: 38px;
+}
+.desktop-8 .carpadiem-restaurant-bar {
+  position: relative;
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 71.9px;
+  color: #FFFFFF;
+}
+.desktop-8 .jl-khabdurrahman-wahid-sulawesi-utara {
+  position: relative;
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 34.4px;
+  color: #FFFFFF;
+}
+.desktop-8 .picture-11 {
+  border-radius: 30px;
+  background: url('../assets/images/picture_11.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 32.6px 38px 0;
+  align-self: center;
+  width: 1009px;
+  height: 676px;
+}
+.desktop-8 .back {
+  margin: 0 19px 4px 0;
+  display: inline-block;
+  width: 1116px;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 30.1px;
+  color: #FFFFFF;
+}
+.desktop-8 .reservation {
+  margin-top: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 400;
+  font-size: 30.1px;
+  color: #FFFFFF;
+}
+.desktop-8 .container {
+  position: relative;
+  margin-left: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1295.6px;
+  box-sizing: border-box;
+}
+.desktop-8 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 47px 65.4px 59px 47px;
+  width: 1440px;
+  box-sizing: border-box;
+}
